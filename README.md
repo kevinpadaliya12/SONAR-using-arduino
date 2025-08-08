@@ -45,3 +45,7 @@ Open the .pde file in the Processing IDE.
 Important: Make sure the COM port listed in the Processing sketch matches the one your Arduino is connected to. You may need to edit this line in the code: myPort = new Serial(this, Serial.list()[x], 9600); (where x is the index of your Arduino's port).
 Run the sketch. The radar display should appear and start visualizing the data from the Arduino.
 
+working setup
+
+<img width="419" height="434" alt="image" src="https://github.com/user-attachments/assets/9763372b-9e97-41dd-9540-a95bd88d9826" />
+
